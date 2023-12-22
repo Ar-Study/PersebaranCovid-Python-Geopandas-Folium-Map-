@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Covid-DIY",
+"features": [
+{ "type": "Feature", "properties": { "Kabupaten/Kota": "Yogyakarta", "Positif": 4, "Sembuh": true, "Meninggal": false, "Odp": 195, "Pdp": 20, "Terakhir Update": "26-03-2020" }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Kabupaten/Kota": "Sleman", "Positif": 8, "Sembuh": false, "Meninggal": false, "Odp": 303, "Pdp": 23, "Terakhir Update": "26-03-2020" }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Kabupaten/Kota": "Kulon Progo", "Positif": 1, "Sembuh": false, "Meninggal": false, "Odp": 72, "Pdp": 5, "Terakhir Update": "26-03-2020" }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Kabupaten/Kota": "Gunung Kidul", "Positif": 1, "Sembuh": false, "Meninggal": false, "Odp": 292, "Pdp": 4, "Terakhir Update": "26-03-2020" }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Kabupaten/Kota": "Bantul", "Positif": 2, "Sembuh": false, "Meninggal": false, "Odp": 157, "Pdp": 28, "Terakhir Update": "26-03-2020" }, "geometry": { "type": "Polygon", "coordinates": [ ] } }
+]
+}
